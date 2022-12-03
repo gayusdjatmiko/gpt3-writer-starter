@@ -5,10 +5,7 @@ import buildspaceLogo from '../assets/buildspace-logo.png';
 const Home = () => {
   return (
     <div className="root">
-      <Head>
-        <title>GPT-3 Writer | buildspace</title>
-      </Head>
-      <div className="container">
+        <div className="container">
         <div className="header">
           <div className="header-title">
             <h1>sup, insert your headline here</h1>
