@@ -15,10 +15,10 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div classname="prompt-container">
-          <textarea placeholder="start typing here" classname="prompt-box"/>
-    </div>
-    </div>
+      <div className="prompt-container">
+          <textarea placeholder="start typing here" className="prompt-box" />
+        </div>
+      </div>
       <div className="badge-container grow">
         <a
           href="https://buildspace.so/builds/ai-writer"
